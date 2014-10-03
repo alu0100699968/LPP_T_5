@@ -1,1 +1,5 @@
 Trabajo en equipo con git
+
+Diferencia entre compilación e interpretación: en la compilación se traduce el código creado a un fichero objeto que es leído por la máquina.
+
+En la interpretación se lee línea por línea de código que se van ejecutando sucesivamente.
